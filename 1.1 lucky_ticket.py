@@ -9,6 +9,3 @@ def is_happy_ticket(ticket):
             return True
         else:
             return False
-
-result = is_happy_ticket("2112332112")
-print(result)
